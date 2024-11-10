@@ -1,0 +1,1744 @@
+{
+    "teamName": "Philadelphia Flyers",
+    "roster": {
+        "forwards": [
+            {
+                "name": "Couturier, Sean",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "NMC",
+                                "capHit": "$7,750,000",
+                                "aav": "$7,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$5,000,000",
+                                "baseSalary": "$4,000,000",
+                                "totalSalary": "$9,000,000",
+                                "minorsSalary": "$9,000,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "NMC",
+                                "capHit": "$7,750,000",
+                                "aav": "$7,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$5,000,000",
+                                "baseSalary": "$4,000,000",
+                                "totalSalary": "$9,000,000",
+                                "minorsSalary": "$9,000,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "NMC",
+                                "capHit": "$7,750,000",
+                                "aav": "$7,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$5,000,000",
+                                "baseSalary": "$4,000,000",
+                                "totalSalary": "$9,000,000",
+                                "minorsSalary": "$9,000,000"
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "NMC",
+                                "capHit": "$7,750,000",
+                                "aav": "$7,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$6,000,000",
+                                "baseSalary": "$1,750,000",
+                                "totalSalary": "$7,750,000",
+                                "minorsSalary": "$7,750,000"
+                            },
+                            {
+                                "season": "2027-28",
+                                "clause": "NMC",
+                                "capHit": "$7,750,000",
+                                "aav": "$7,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$5,000,000",
+                                "baseSalary": "$1,500,000",
+                                "totalSalary": "$6,500,000",
+                                "minorsSalary": "$6,500,000"
+                            },
+                            {
+                                "season": "2028-29",
+                                "clause": "NMC",
+                                "capHit": "$7,750,000",
+                                "aav": "$7,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$5,000,000",
+                                "baseSalary": "$1,500,000",
+                                "totalSalary": "$6,500,000",
+                                "minorsSalary": "$6,500,000"
+                            },
+                            {
+                                "season": "2029-30",
+                                "clause": "M-NTC",
+                                "capHit": "$7,750,000",
+                                "aav": "$7,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$5,000,000",
+                                "baseSalary": "$1,500,000",
+                                "totalSalary": "$6,500,000",
+                                "minorsSalary": "$6,500,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Tippett, Owen",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$6,200,000",
+                                "aav": "$6,200,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$5,000,000",
+                                "baseSalary": "$1,000,000",
+                                "totalSalary": "$6,000,000",
+                                "minorsSalary": "$6,000,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$6,200,000",
+                                "aav": "$6,200,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$5,000,000",
+                                "baseSalary": "$2,500,000",
+                                "totalSalary": "$7,500,000",
+                                "minorsSalary": "$7,500,000"
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "M-NTC",
+                                "capHit": "$6,200,000",
+                                "aav": "$6,200,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$4,500,000",
+                                "totalSalary": "$4,500,000",
+                                "minorsSalary": "$4,500,000"
+                            },
+                            {
+                                "season": "2027-28",
+                                "clause": "M-NTC",
+                                "capHit": "$6,200,000",
+                                "aav": "$6,200,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$3,000,000",
+                                "baseSalary": "$3,500,000",
+                                "totalSalary": "$6,500,000",
+                                "minorsSalary": "$6,500,000"
+                            },
+                            {
+                                "season": "2028-29",
+                                "clause": "M-NTC",
+                                "capHit": "$6,200,000",
+                                "aav": "$6,200,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$3,000,000",
+                                "baseSalary": "$5,000,000",
+                                "totalSalary": "$8,000,000",
+                                "minorsSalary": "$8,000,000"
+                            },
+                            {
+                                "season": "2029-30",
+                                "clause": "M-NTC",
+                                "capHit": "$6,200,000",
+                                "aav": "$6,200,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$7,500,000",
+                                "totalSalary": "$7,500,000",
+                                "minorsSalary": "$7,500,000"
+                            },
+                            {
+                                "season": "2030-31",
+                                "clause": "",
+                                "capHit": "$6,200,000",
+                                "aav": "$6,200,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$5,100,000",
+                                "totalSalary": "$5,100,000",
+                                "minorsSalary": "$5,100,000"
+                            },
+                            {
+                                "season": "2031-32",
+                                "clause": "",
+                                "capHit": "$6,200,000",
+                                "aav": "$6,200,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$4,500,000",
+                                "totalSalary": "$4,500,000",
+                                "minorsSalary": "$4,500,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA (Arb)",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$1,500,000",
+                                "aav": "$1,500,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,750,000",
+                                "totalSalary": "$1,750,000",
+                                "minorsSalary": "$1,750,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Konecny, Travis",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2025-26",
+                                "clause": "M-NMC",
+                                "capHit": "$8,750,000",
+                                "aav": "$8,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$9,000,000",
+                                "baseSalary": "$2,000,000",
+                                "totalSalary": "$11,000,000"
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "M-NMC",
+                                "capHit": "$8,750,000",
+                                "aav": "$8,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$3,000,000",
+                                "baseSalary": "$5,250,000",
+                                "totalSalary": "$8,250,000"
+                            },
+                            {
+                                "season": "2027-28",
+                                "clause": "M-NMC",
+                                "capHit": "$8,750,000",
+                                "aav": "$8,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$7,500,000",
+                                "baseSalary": "$3,500,000",
+                                "totalSalary": "$11,000,000"
+                            },
+                            {
+                                "season": "2028-29",
+                                "clause": "M-NMC",
+                                "capHit": "$8,750,000",
+                                "aav": "$8,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$6,000,000",
+                                "baseSalary": "$4,600,000",
+                                "totalSalary": "$10,600,000"
+                            },
+                            {
+                                "season": "2029-30",
+                                "clause": "M-NMC",
+                                "capHit": "$8,750,000",
+                                "aav": "$8,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$5,000,000",
+                                "baseSalary": "$4,350,000",
+                                "totalSalary": "$9,350,000"
+                            },
+                            {
+                                "season": "2030-31",
+                                "clause": "M-NMC",
+                                "capHit": "$8,750,000",
+                                "aav": "$8,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$4,500,000",
+                                "baseSalary": "$2,100,000",
+                                "totalSalary": "$6,600,000"
+                            },
+                            {
+                                "season": "2031-32",
+                                "clause": "M-NTC",
+                                "capHit": "$8,750,000",
+                                "aav": "$8,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$6,600,000",
+                                "totalSalary": "$6,600,000"
+                            },
+                            {
+                                "season": "2032-33",
+                                "clause": "M-NTC",
+                                "capHit": "$8,750,000",
+                                "aav": "$8,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$6,600,000",
+                                "totalSalary": "$6,600,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$5,500,000",
+                                "aav": "$5,500,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$6,000,000",
+                                "totalSalary": "$6,000,000",
+                                "minorsSalary": "$6,000,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$5,500,000",
+                                "aav": "$5,500,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$3,000,000",
+                                "baseSalary": "$4,000,000",
+                                "totalSalary": "$7,000,000",
+                                "minorsSalary": "$7,000,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Farabee, Joel",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$5,000,000",
+                                "aav": "$5,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$2,000,000",
+                                "baseSalary": "$2,250,000",
+                                "totalSalary": "$4,250,000",
+                                "minorsSalary": "$4,250,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$5,000,000",
+                                "aav": "$5,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$2,000,000",
+                                "baseSalary": "$3,000,000",
+                                "totalSalary": "$5,000,000",
+                                "minorsSalary": "$5,000,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$5,000,000",
+                                "aav": "$5,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$1,500,000",
+                                "baseSalary": "$4,250,000",
+                                "totalSalary": "$5,750,000",
+                                "minorsSalary": "$5,750,000"
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "",
+                                "capHit": "$5,000,000",
+                                "aav": "$5,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$6,000,000",
+                                "totalSalary": "$6,000,000",
+                                "minorsSalary": "$6,000,000"
+                            },
+                            {
+                                "season": "2027-28",
+                                "clause": "",
+                                "capHit": "$5,000,000",
+                                "aav": "$5,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$6,000,000",
+                                "totalSalary": "$6,000,000",
+                                "minorsSalary": "$6,000,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Johansen, Ryan",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$8,000,000",
+                                "aav": "$8,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$8,000,000",
+                                "totalSalary": "$8,000,000",
+                                "minorsSalary": "$8,000,000",
+                                "retention": {
+                                    "Philadelphia Flyers": {
+                                        "capHit": "$4,000,000",
+                                        "retention": "50.00%"
+                                    },
+                                    "Nashville Predators": {
+                                        "capHit": "$4,000,000",
+                                        "retention": "50.00%"
+                                    }
+                                }
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$8,000,000",
+                                "aav": "$8,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$8,000,000",
+                                "totalSalary": "$8,000,000",
+                                "minorsSalary": "$8,000,000",
+                                "retention": {
+                                    "Philadelphia Flyers": {
+                                        "capHit": "$4,000,000",
+                                        "retention": "50.00%"
+                                    },
+                                    "Nashville Predators": {
+                                        "capHit": "$4,000,000",
+                                        "retention": "50.00%"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA (Arb)",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Laughton, Scott",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$3,000,000",
+                                "aav": "$3,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$250,000",
+                                "baseSalary": "$3,625,000",
+                                "totalSalary": "$3,875,000",
+                                "minorsSalary": "$3,875,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$3,000,000",
+                                "aav": "$3,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$3,625,000",
+                                "totalSalary": "$3,625,000",
+                                "minorsSalary": "$3,625,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$3,000,000",
+                                "aav": "$3,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,500,000",
+                                "totalSalary": "$2,500,000",
+                                "minorsSalary": "$2,500,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Cates, Noah",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA (Arb)",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$2,625,000",
+                                "aav": "$2,625,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,625,000",
+                                "totalSalary": "$2,625,000",
+                                "minorsSalary": "$2,625,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$2,625,000",
+                                "aav": "$2,625,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,625,000",
+                                "totalSalary": "$2,625,000",
+                                "minorsSalary": "$2,625,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA (Arb)",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Hathaway, Garnet",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$2,400,000",
+                                "aav": "$2,400,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$1,500,000",
+                                "baseSalary": "$1,200,000",
+                                "totalSalary": "$2,700,000",
+                                "minorsSalary": "$2,700,000"
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "",
+                                "capHit": "$2,400,000",
+                                "aav": "$2,400,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,100,000",
+                                "totalSalary": "$2,100,000",
+                                "minorsSalary": "$2,100,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$2,375,000",
+                                "aav": "$2,375,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$1,000,000",
+                                "baseSalary": "$1,700,000",
+                                "totalSalary": "$2,700,000",
+                                "minorsSalary": "$2,700,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$2,375,000",
+                                "aav": "$2,375,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,050,000",
+                                "totalSalary": "$2,050,000",
+                                "minorsSalary": "$2,050,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Frost, Morgan",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA (Arb)",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$2,100,000",
+                                "aav": "$2,100,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$350,000",
+                                "baseSalary": "$1,450,000",
+                                "totalSalary": "$1,800,000",
+                                "minorsSalary": "$1,800,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$2,100,000",
+                                "aav": "$2,100,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,400,000",
+                                "totalSalary": "$2,400,000",
+                                "minorsSalary": "$2,400,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Poehling, Ryan",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$1,900,000",
+                                "aav": "$1,900,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,900,000",
+                                "totalSalary": "$1,900,000",
+                                "minorsSalary": "$1,900,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$1,900,000",
+                                "aav": "$1,900,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,900,000",
+                                "totalSalary": "$1,900,000",
+                                "minorsSalary": "$1,900,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA (Arb)",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$1,400,000",
+                                "aav": "$1,400,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,400,000",
+                                "totalSalary": "$1,400,000",
+                                "minorsSalary": "$1,400,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Deslauriers, Nicolas",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "M-NTC",
+                                "capHit": "$1,750,000",
+                                "aav": "$1,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,000,000",
+                                "totalSalary": "$2,000,000",
+                                "minorsSalary": "$2,000,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$1,750,000",
+                                "aav": "$1,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,500,000",
+                                "totalSalary": "$1,500,000",
+                                "minorsSalary": "$1,500,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$1,750,000",
+                                "aav": "$1,750,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,500,000",
+                                "totalSalary": "$1,500,000",
+                                "minorsSalary": "$1,500,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Brink, Bobby",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA",
+                        "details": [
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$1,500,000",
+                                "aav": "$1,500,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$250,000",
+                                "baseSalary": "$1,250,000",
+                                "totalSalary": "$1,500,000",
+                                "minorsSalary": "$1,500,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$1,500,000",
+                                "aav": "$1,500,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,500,000",
+                                "totalSalary": "$1,500,000",
+                                "minorsSalary": "$1,500,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA (Arb)",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$925,000",
+                                "aav": "$1,137,500",
+                                "performanceBonuses": "$425,000",
+                                "signingBonuses": "$92,500",
+                                "baseSalary": "$832,500",
+                                "totalSalary": "$925,000",
+                                "minorsSalary": "$70,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Michkov, Matvei",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA",
+                        "details": [
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$950,000",
+                                "aav": "$4,250,000",
+                                "performanceBonuses": "$3,300,000",
+                                "signingBonuses": "$95,000",
+                                "baseSalary": "$855,000",
+                                "totalSalary": "$950,000",
+                                "minorsSalary": "$82,500"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$950,000",
+                                "aav": "$4,250,000",
+                                "performanceBonuses": "$3,300,000",
+                                "signingBonuses": "$95,000",
+                                "baseSalary": "$855,000",
+                                "totalSalary": "$950,000",
+                                "minorsSalary": "$82,500"
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "",
+                                "capHit": "$950,000",
+                                "aav": "$4,250,000",
+                                "performanceBonuses": "$3,300,000",
+                                "signingBonuses": "$95,000",
+                                "baseSalary": "$855,000",
+                                "totalSalary": "$950,000",
+                                "minorsSalary": "$82,500"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Foerster, Tyson",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$863,333",
+                                "aav": "$863,333",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$832,500",
+                                "totalSalary": "$832,500",
+                                "minorsSalary": "$80,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$863,333",
+                                "aav": "$863,333",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$832,500",
+                                "totalSalary": "$832,500",
+                                "minorsSalary": "$80,000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "defense": [
+            {
+                "name": "Sanheim, Travis",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "NTC",
+                                "capHit": "$6,250,000",
+                                "aav": "$6,250,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$3,000,000",
+                                "baseSalary": "$5,125,000",
+                                "totalSalary": "$8,125,000",
+                                "minorsSalary": "$8,125,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "NTC",
+                                "capHit": "$6,250,000",
+                                "aav": "$6,250,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$3,000,000",
+                                "baseSalary": "$5,125,000",
+                                "totalSalary": "$8,125,000",
+                                "minorsSalary": "$8,125,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "NTC",
+                                "capHit": "$6,250,000",
+                                "aav": "$6,250,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$3,000,000",
+                                "baseSalary": "$5,125,000",
+                                "totalSalary": "$8,125,000",
+                                "minorsSalary": "$8,125,000"
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "NTC",
+                                "capHit": "$6,250,000",
+                                "aav": "$6,250,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$6,125,000",
+                                "totalSalary": "$6,125,000",
+                                "minorsSalary": "$6,125,000"
+                            },
+                            {
+                                "season": "2027-28",
+                                "clause": "M-NTC",
+                                "capHit": "$6,250,000",
+                                "aav": "$6,250,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$3,000,000",
+                                "baseSalary": "$1,875,000",
+                                "totalSalary": "$4,875,000",
+                                "minorsSalary": "$4,875,000"
+                            },
+                            {
+                                "season": "2028-29",
+                                "clause": "M-NTC",
+                                "capHit": "$6,250,000",
+                                "aav": "$6,250,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$3,000,000",
+                                "baseSalary": "$1,875,000",
+                                "totalSalary": "$4,875,000",
+                                "minorsSalary": "$4,875,000"
+                            },
+                            {
+                                "season": "2029-30",
+                                "clause": "M-NTC",
+                                "capHit": "$6,250,000",
+                                "aav": "$6,250,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$4,875,000",
+                                "totalSalary": "$4,875,000",
+                                "minorsSalary": "$4,875,000"
+                            },
+                            {
+                                "season": "2030-31",
+                                "clause": "M-NTC",
+                                "capHit": "$6,250,000",
+                                "aav": "$6,250,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$4,875,000",
+                                "totalSalary": "$4,875,000",
+                                "minorsSalary": "$4,875,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Ristolainen, Rasmus",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$5,100,000",
+                                "aav": "$5,100,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$5,500,000",
+                                "totalSalary": "$5,500,000",
+                                "minorsSalary": "$5,500,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$5,100,000",
+                                "aav": "$5,100,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$6,500,000",
+                                "totalSalary": "$6,500,000",
+                                "minorsSalary": "$6,500,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$5,100,000",
+                                "aav": "$5,100,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$5,500,000",
+                                "totalSalary": "$5,500,000",
+                                "minorsSalary": "$5,500,000"
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "",
+                                "capHit": "$5,100,000",
+                                "aav": "$5,100,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$4,000,000",
+                                "totalSalary": "$4,000,000",
+                                "minorsSalary": "$4,000,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Seeler, Nick",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2024-25",
+                                "clause": "NTC",
+                                "capHit": "$2,700,000",
+                                "aav": "$2,700,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$1,500,000",
+                                "baseSalary": "$1,200,000",
+                                "totalSalary": "$2,700,000",
+                                "minorsSalary": "$2,700,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "NTC",
+                                "capHit": "$2,700,000",
+                                "aav": "$2,700,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$1,000,000",
+                                "baseSalary": "$1,700,000",
+                                "totalSalary": "$2,700,000",
+                                "minorsSalary": "$2,700,000"
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "",
+                                "capHit": "$2,700,000",
+                                "aav": "$2,700,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,700,000",
+                                "totalSalary": "$2,700,000",
+                                "minorsSalary": "$2,700,000"
+                            },
+                            {
+                                "season": "2027-28",
+                                "clause": "",
+                                "capHit": "$2,700,000",
+                                "aav": "$2,700,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,700,000",
+                                "totalSalary": "$2,700,000",
+                                "minorsSalary": "$2,700,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$775,000",
+                                "aav": "$775,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$800,000",
+                                "totalSalary": "$800,000",
+                                "minorsSalary": "$350,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Drysdale, Jamie",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$2,300,000",
+                                "aav": "$2,300,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,300,000",
+                                "totalSalary": "$2,300,000",
+                                "minorsSalary": "$2,300,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$2,300,000",
+                                "aav": "$2,300,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,300,000",
+                                "totalSalary": "$2,300,000",
+                                "minorsSalary": "$2,300,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$2,300,000",
+                                "aav": "$2,300,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$2,300,000",
+                                "totalSalary": "$2,300,000",
+                                "minorsSalary": "$2,300,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "10.2(c)",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Zamula, Egor",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$1,700,000",
+                                "aav": "$1,700,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$500,000",
+                                "baseSalary": "$1,000,000",
+                                "totalSalary": "$1,500,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$1,700,000",
+                                "aav": "$1,700,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$500,000",
+                                "baseSalary": "$1,400,000",
+                                "totalSalary": "$1,900,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA (Arb)",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$775,000",
+                                "aav": "$775,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$775,000",
+                                "totalSalary": "$775,000",
+                                "minorsSalary": "$775,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "York, Cam",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA (Arb)",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$1,600,000",
+                                "aav": "$1,600,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$300,000",
+                                "baseSalary": "$1,300,000",
+                                "totalSalary": "$1,600,000",
+                                "minorsSalary": "$1,600,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$1,600,000",
+                                "aav": "$1,600,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,600,000",
+                                "totalSalary": "$1,600,000",
+                                "minorsSalary": "$1,600,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA",
+                        "details": []
+                    }
+                ]
+            },
+            {
+                "name": "Johnson, Erik",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$1,000,000",
+                                "aav": "$1,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,000,000",
+                                "totalSalary": "$1,000,000",
+                                "minorsSalary": "$1,000,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$3,250,000",
+                                "aav": "$3,250,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$1,250,000",
+                                "baseSalary": "$2,000,000",
+                                "totalSalary": "$3,250,000",
+                                "minorsSalary": "$3,250,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Andrae, Emil",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$903,333",
+                                "aav": "$925,000",
+                                "performanceBonuses": "$32,500",
+                                "signingBonuses": "$92,500",
+                                "baseSalary": "$800,000",
+                                "totalSalary": "$892,500",
+                                "minorsSalary": "$80,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$903,333",
+                                "aav": "$925,000",
+                                "performanceBonuses": "$32,500",
+                                "signingBonuses": "$92,500",
+                                "baseSalary": "$800,000",
+                                "totalSalary": "$892,500",
+                                "minorsSalary": "$80,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$903,333",
+                                "aav": "$925,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$92,500",
+                                "baseSalary": "$832,500",
+                                "totalSalary": "$925,000",
+                                "minorsSalary": "$80,000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "goalies": [
+            {
+                "name": "Fedotov, Ivan",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$3,275,000",
+                                "aav": "$3,275,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$2,500,000",
+                                "baseSalary": "$775,000",
+                                "totalSalary": "$3,275,000",
+                                "minorsSalary": "$3,275,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$3,275,000",
+                                "aav": "$3,275,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$2,500,000",
+                                "baseSalary": "$775,000",
+                                "totalSalary": "$3,275,000",
+                                "minorsSalary": "$3,275,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$925,000",
+                                "aav": "$1,100,000",
+                                "performanceBonuses": "$175,000",
+                                "signingBonuses": "$92,500",
+                                "baseSalary": "$832,500",
+                                "totalSalary": "$925,000",
+                                "minorsSalary": "$70,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ersson, Samuel",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA",
+                        "details": [
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$1,450,000",
+                                "aav": "$1,450,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$300,000",
+                                "baseSalary": "$1,000,000",
+                                "totalSalary": "$1,300,000",
+                                "minorsSalary": "$1,300,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$1,450,000",
+                                "aav": "$1,450,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$1,600,000",
+                                "totalSalary": "$1,600,000",
+                                "minorsSalary": "$1,600,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "RFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$859,167",
+                                "aav": "$925,000",
+                                "performanceBonuses": "$32,500",
+                                "signingBonuses": "$92,500",
+                                "baseSalary": "$800,000",
+                                "totalSalary": "$892,500",
+                                "minorsSalary": "$70,000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kolosov, Aleksei",
+                "contracts": [
+                    {
+                        "expiryStatus": "RFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$925,000",
+                                "aav": "$925,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$92,500",
+                                "baseSalary": "$832,500",
+                                "totalSalary": "$925,000",
+                                "minorsSalary": "$80,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "$925,000",
+                                "aav": "$925,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$92,500",
+                                "baseSalary": "$832,500",
+                                "totalSalary": "$925,000",
+                                "minorsSalary": "$80,000"
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "$925,000",
+                                "aav": "$925,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$92,500",
+                                "baseSalary": "$832,500",
+                                "totalSalary": "$925,000",
+                                "minorsSalary": "$80,000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "deadCap": {
+        "retainedSalary": [
+            {
+                "name": "Hayes, Kevin",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "M-NTC",
+                                "capHit": "$7,142,857",
+                                "aav": "$7,142,857",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$6,500,000",
+                                "totalSalary": "$6,500,000",
+                                "minorsSalary": "$6,500,000",
+                                "retention": {
+                                    "Pittsburgh Penguins": {
+                                        "capHit": "$3,571,429",
+                                        "retention": "50.00%"
+                                    },
+                                    "Philadelphia Flyers": {
+                                        "capHit": "$3,571,428",
+                                        "retention": "50.00%"
+                                    }
+                                }
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "M-NTC",
+                                "capHit": "$7,142,857",
+                                "aav": "$7,142,857",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$1,250,000",
+                                "baseSalary": "$4,000,000",
+                                "totalSalary": "$5,250,000",
+                                "minorsSalary": "$5,250,000",
+                                "retention": {
+                                    "Pittsburgh Penguins": {
+                                        "capHit": "$3,571,429",
+                                        "retention": "50.00%"
+                                    },
+                                    "Philadelphia Flyers": {
+                                        "capHit": "$3,571,428",
+                                        "retention": "50.00%"
+                                    }
+                                }
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "M-NTC",
+                                "capHit": "$7,142,857",
+                                "aav": "$7,142,857",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$1,250,000",
+                                "baseSalary": "$4,000,000",
+                                "totalSalary": "$5,250,000",
+                                "minorsSalary": "$5,250,000",
+                                "retention": {
+                                    "Pittsburgh Penguins": {
+                                        "capHit": "$3,571,429",
+                                        "retention": "50.00%"
+                                    },
+                                    "Philadelphia Flyers": {
+                                        "capHit": "$3,571,428",
+                                        "retention": "50.00%"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": []
+                    }
+                ]
+            }
+        ],
+        "buyoutHistory": [
+            {
+                "name": "Atkinson, Cam",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "M-NTC",
+                                "capHit": "$5,875,000",
+                                "aav": "$5,875,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$5,275,000",
+                                "totalSalary": "$5,275,000",
+                                "minorsSalary": "$5,275,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "M-NTC",
+                                "capHit": "$5,875,000",
+                                "aav": "$5,875,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$5,275,000",
+                                "totalSalary": "$5,275,000",
+                                "minorsSalary": "$5,275,000",
+                                "buyout": {
+                                    "teamName": "Philadelphia Flyers",
+                                    "cost": "$1,758,333",
+                                    "earning": "$1,758,333",
+                                    "savings": "$3,516,667",
+                                    "capHit": "$2,358,333"
+                                }
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "",
+                                "aav": "",
+                                "performanceBonuses": "",
+                                "signingBonuses": "",
+                                "baseSalary": "",
+                                "totalSalary": "",
+                                "minorsSalary": "",
+                                "buyout": {
+                                    "teamName": "Philadelphia Flyers",
+                                    "cost": "$1,758,333",
+                                    "earning": "$1,758,333",
+                                    "savings": "-$1,758,333",
+                                    "capHit": "$1,758,333"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "DeAngelo, Tony",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "$5,000,000",
+                                "aav": "$5,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$5,000,000",
+                                "totalSalary": "$5,000,000",
+                                "minorsSalary": "$5,000,000",
+                                "buyout": {
+                                    "teamName": "Philadelphia Flyers",
+                                    "cost": "$1,666,667",
+                                    "earning": "$1,666,667",
+                                    "savings": "$3,333,333",
+                                    "capHit": "$1,666,667"
+                                }
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "",
+                                "aav": "",
+                                "performanceBonuses": "",
+                                "signingBonuses": "",
+                                "baseSalary": "",
+                                "totalSalary": "",
+                                "minorsSalary": "",
+                                "buyout": {
+                                    "teamName": "Philadelphia Flyers",
+                                    "cost": "$1,666,667",
+                                    "earning": "$1,666,667",
+                                    "savings": "-$1,666,667",
+                                    "capHit": "$1,666,667"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bryzgalov, Ilya",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "",
+                                "capHit": "",
+                                "aav": "",
+                                "performanceBonuses": "",
+                                "signingBonuses": "",
+                                "baseSalary": "",
+                                "totalSalary": "",
+                                "minorsSalary": "",
+                                "buyout": {
+                                    "teamName": "Philadelphia Flyers",
+                                    "cost": "$1,642,857",
+                                    "earning": "$1,642,857",
+                                    "savings": "-$1,642,857",
+                                    "capHit": "$0"
+                                }
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "",
+                                "capHit": "",
+                                "aav": "",
+                                "performanceBonuses": "",
+                                "signingBonuses": "",
+                                "baseSalary": "",
+                                "totalSalary": "",
+                                "minorsSalary": "",
+                                "buyout": {
+                                    "teamName": "Philadelphia Flyers",
+                                    "cost": "$1,642,857",
+                                    "earning": "$1,642,857",
+                                    "savings": "-$1,642,857",
+                                    "capHit": "$0"
+                                }
+                            },
+                            {
+                                "season": "2025-26",
+                                "clause": "",
+                                "capHit": "",
+                                "aav": "",
+                                "performanceBonuses": "",
+                                "signingBonuses": "",
+                                "baseSalary": "",
+                                "totalSalary": "",
+                                "minorsSalary": "",
+                                "buyout": {
+                                    "teamName": "Philadelphia Flyers",
+                                    "cost": "$1,642,857",
+                                    "earning": "$1,642,857",
+                                    "savings": "-$1,642,857",
+                                    "capHit": "$0"
+                                }
+                            },
+                            {
+                                "season": "2026-27",
+                                "clause": "",
+                                "capHit": "",
+                                "aav": "",
+                                "performanceBonuses": "",
+                                "signingBonuses": "",
+                                "baseSalary": "",
+                                "totalSalary": "",
+                                "minorsSalary": "",
+                                "buyout": {
+                                    "teamName": "Philadelphia Flyers",
+                                    "cost": "$1,642,857",
+                                    "earning": "$1,642,857",
+                                    "savings": "-$1,642,857",
+                                    "capHit": "$0"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "buriedPenalty": [
+            {
+                "name": "Petersen, Cal",
+                "contracts": [
+                    {
+                        "expiryStatus": "UFA",
+                        "details": [
+                            {
+                                "season": "2023-24",
+                                "clause": "M-NTC",
+                                "capHit": "$5,000,000",
+                                "aav": "$5,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$4,000,000",
+                                "baseSalary": "$1,000,000",
+                                "totalSalary": "$5,000,000",
+                                "minorsSalary": "$5,000,000",
+                                "burriedPenalty": "$3,850,000"
+                            },
+                            {
+                                "season": "2024-25",
+                                "clause": "M-NTC",
+                                "capHit": "$5,000,000",
+                                "aav": "$5,000,000",
+                                "performanceBonuses": "$0",
+                                "signingBonuses": "$0",
+                                "baseSalary": "$6,000,000",
+                                "totalSalary": "$6,000,000",
+                                "minorsSalary": "$6,000,000",
+                                "burriedPenalty": "$3,850,000"
+                            }
+                        ]
+                    },
+                    {
+                        "expiryStatus": "UFA",
+                        "details": []
+                    }
+                ]
+            }
+        ]
+    },
+    "teamSummary": {
+        "upperLimit": 88000000,
+        "carryover": 245000
+    }
+}
